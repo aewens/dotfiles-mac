@@ -1,0 +1,43 @@
+"*":
+  "exception-reporting":
+    userId: "08dda158-b398-885d-6408-1d14e82e9877"
+  welcome:
+    showOnStartup: false
+  metrics:
+    userId: "6602af5cc92f3fd85e609594908767691a72918a"
+  editor:
+    showIndentGuide: true
+    tabLength: 4
+    invisibles: {}
+    showInvisibles: true
+  core:
+    excludeVcsIgnoredPaths: false
+    disabledPackages: [
+      "emmet"
+      "coffee-eval"
+      "coffee-eval"
+      "language-haskell"
+      "coffee-eval"
+      "language-haskell"
+      "remember-session"
+    ]
+    projectHome: "/Users/aewens/proto"
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+  whitespace:
+    removeTrailingWhitespace: false
+  "remember-session":
+    x: 0
+    y: 23
+    selectedTab: ""
+    tabs: ""
+    width: 1440
+    height: 873
+    path: ""
+  "vim-mode":
+    startInInsertMode: true
+  "tree-view": {}
+  emmet: {}
+  "markdown-preview": {}
